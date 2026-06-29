@@ -101,9 +101,9 @@ ve işlem geçmişi state'ten silinir ve kullanıcı "bağlı değil" ekranına 
 | ------------------------------------------------------ | --------------------------------------- |
 | ![Cüzdan bağlı](docs/screenshots/wallet-connected.png) | ![Bakiye](docs/screenshots/balance.png) |
 
-| Başarılı testnet transaction'ı                                    | İşlem sonucu kullanıcıya gösteriliyor                    |
-| ----------------------------------------------------------------- | -------------------------------------------------------- |
-| ![Başarılı transaction](docs/screenshots/transaction-success.png) | ![İşlem sonucu](docs/screenshots/transaction-result.png) |
+| Başarılı testnet transaction'ı                                    | 
+| ----------------------------------------------------------------- | 
+| ![Başarılı transaction](docs/screenshots/transaction-success.png) | 
 
 ## Lisans
 
